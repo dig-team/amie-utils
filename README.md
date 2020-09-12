@@ -12,7 +12,7 @@ Follow the following procedure:
  ```
  $ cd amie-utils/javatools
  $ mvn install
- $ cd ../telecom-utils
+ $ cd ../telecom-util
  $ mvn install
  ```
  
